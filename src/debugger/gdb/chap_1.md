@@ -1,4 +1,4 @@
-雖然gdb之前就有支持script了，不過pytohn提供的功能更齊全，所以用python當script語言更方便
+雖然gdb之前就有支持script了，不過python提供的功能更齊全，所以用python當script語言更方便
 
 gdb裡面就能直接跟python作互動了
 ``` bash
